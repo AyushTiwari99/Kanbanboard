@@ -1,0 +1,13 @@
+.columnHeadingLeft{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+}
+.columnHeadingLeft img{
+    margin-right: 10px;
+}
+.length{
+    color: grey;
+    margin-left: 5px;
+}
